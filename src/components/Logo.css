@@ -1,0 +1,16 @@
+/* Logo.css */
+
+.logo-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    margin-left: 150px;
+
+  }
+  
+  .logo {
+    width: 75px;
+  }
+  
+  
