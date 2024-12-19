@@ -37,13 +37,13 @@ const AboutPage = () => {
       <footer className="about-footer">
        
         <div className="social-icons">
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/icdfh" target="_blank" rel="noopener noreferrer">
             <img src={githubIcon} alt="GitHub" />
           </a>
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/makoozez/?utm_source=ig_web_button_share_sheet" target="_blank" rel="noopener noreferrer">
             <img src={instagramIcon} alt="Instagram" />
           </a>
-          <a href="https://telegram.org" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/biahavor" target="_blank" rel="noopener noreferrer">
             <img src={telegramIcon} alt="Telegram" />
           </a>
         </div>
